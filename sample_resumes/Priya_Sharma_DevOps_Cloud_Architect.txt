@@ -1,0 +1,33 @@
+
+Priya Sharma
+Seattle, WA | (206) 555-0177 | priya.sharma.cloud@gmail.com
+LinkedIn: linkedin.com/in/priyasharma-devops | GitHub: github.com/psharma-infra
+
+PROFESSIONAL SUMMARY
+Senior Cloud & DevOps Engineer with 6+ years of expertise designing multi-cloud architectures, Kubernetes clusters, and enterprise CI/CD pipelines. Certified AWS Solutions Architect and CKA.
+
+WORK EXPERIENCE
+Lead DevOps & SRE Engineer | CloudScale Systems | 2021 – Present
+- Architected enterprise Kubernetes clusters on AWS EKS managing 150+ microservices with 99.99% uptime.
+- Created Infrastructure as Code (IaC) modular frameworks using Terraform and Ansible, standardizing deployments across AWS and Azure environments.
+- Implemented automated CI/CD continuous delivery pipelines using GitLab CI and GitHub Actions, slashing release deployment times from 4 hours to 12 minutes.
+- Configured real-time observability and alerting metrics utilizing Prometheus, Grafana, and Nginx ingress controllers.
+
+DevOps Engineer | StrataTech Networks | 2018 – 2021
+- Automated container builds with Docker and managed Linux Ubuntu server fleets.
+- Administered PostgreSQL database backups, VPC peering, IAM least-privilege security, and SSL/TLS certificate renewals.
+
+EDUCATION
+Master of Science in Information Technology
+University of Washington | 2016 – 2018
+
+Bachelor of Engineering in Computer Science
+Pune University | 2012 – 2016
+
+TECHNICAL SKILLS
+- Cloud: AWS, Azure, Google Cloud, Terraform, CloudFormation
+- Containers & Orchestration: Docker, Kubernetes, Helm, Microservices
+- CI/CD & Automation: GitHub Actions, GitLab CI, Jenkins, Ansible, Bash, Python
+- Monitoring & Infra: Prometheus, Grafana, Linux, Nginx, Linux Administration, SRE
+- Databases: PostgreSQL, Redis, MySQL
+- Soft Skills: Leadership, Project Management, Agile, Mentoring, Problem Solving

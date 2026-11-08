@@ -1,0 +1,31 @@
+
+Sarah Jenkins
+New York, NY | (212) 555-0143 | s.jenkins.dev@outlook.com
+LinkedIn: linkedin.com/in/sarahjenkins-code | GitHub: github.com/sjenkins-dev
+
+PROFESSIONAL SUMMARY
+Dynamic Full-Stack Software Developer with 4 years of experience crafting modern, responsive web applications and resilient microservices. Skilled in React, Next.js, TypeScript, Node.js, and AWS cloud infrastructure.
+
+WORK EXPERIENCE
+Full-Stack Developer | Nexus Cloud Solutions | 2022 – Present
+- Designed and maintained responsive web applications using React, Next.js, TypeScript, and Tailwind CSS, improving client engagement by 40%.
+- Created scalable REST APIs and GraphQL microservices using Node.js, Express, and PostgreSQL, handling over 10,000 requests per second.
+- Containerized frontend and backend services using Docker and configured continuous deployment pipelines with GitHub Actions.
+- Utilized Redis caching to decrease database read load by 50% and optimize application response times.
+
+Junior Web Developer | PixelCraft Interactive | 2020 – 2022
+- Developed customer-facing web interfaces using HTML5, CSS3, JavaScript, and Bootstrap.
+- Collaborated in an Agile Scrum environment, participating in daily standups, sprint planning, and code reviews.
+- Wrote automated unit tests using Jest and PyTest to achieve 85% test coverage.
+
+EDUCATION
+Bachelor of Technology in Computer Science
+Columbia University | 2016 – 2020
+
+TECHNICAL SKILLS
+- Languages: JavaScript, TypeScript, Python, HTML5, CSS3, SQL
+- Frontend: React, Next.js, Redux, Tailwind CSS, Bootstrap, UI/UX Design
+- Backend: Node.js, Express, FastAPI, REST API, GraphQL, Microservices
+- Cloud & Tools: AWS, Docker, Git, GitHub, CI/CD, Linux, Postman
+- Databases: PostgreSQL, MongoDB, MySQL, Redis
+- Soft Skills: Team Collaboration, Agile, Scrum, Problem Solving, Communication

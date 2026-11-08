@@ -1,0 +1,29 @@
+
+Marcus Rodriguez
+Chicago, IL | (312) 555-0188 | marcus.rodriguez.analytics@gmail.com
+LinkedIn: linkedin.com/in/marcusrodriguez-data | GitHub: github.com/mrodriguez-bi
+
+PROFESSIONAL SUMMARY
+Insight-driven Data Analyst with 3 years of experience translating complex business data into strategic visual dashboards and reports. Proficient in SQL, Tableau, Power BI, Python, and statistical modeling.
+
+WORK EXPERIENCE
+Data Analyst | Horizon Health & Financial | 2023 – Present
+- Built and published 15+ automated executive dashboards in Tableau and Power BI, saving leadership 12 hours of manual reporting weekly.
+- Executed complex SQL queries, window functions, and data aggregation scripts across Snowflake and PostgreSQL databases.
+- Partnered with product and marketing teams to formulate A/B testing methodologies and customer segmentation analyses.
+- Performed statistical data cleaning, EDA, and correlation studies using Python, Pandas, NumPy, and Seaborn.
+
+Junior Business Analyst | Metro Logistics | 2021 – 2023
+- Analyzed supply chain logistics data using Advanced Excel, VLOOKUP, Pivot Tables, and Python scripts.
+- Documented business requirements, created KPI dashboards, and presented findings to senior managers.
+
+EDUCATION
+Bachelor of Science in Data Science & Statistics
+University of Illinois Urbana-Champaign | 2017 – 2021
+
+TECHNICAL SKILLS
+- Analytics & BI: Data Analysis, Business Intelligence, Tableau, Power BI, Advanced Excel, Statistics, Probability, A/B Testing, EDA
+- Programming: SQL, Python, R, Bash
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Databases & Warehouses: PostgreSQL, MySQL, Snowflake, BigQuery
+- Professional: Presentation Skills, Communication, Problem Solving, Critical Thinking

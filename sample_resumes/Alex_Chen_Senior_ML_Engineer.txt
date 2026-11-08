@@ -1,0 +1,33 @@
+
+Alex Chen
+San Francisco, CA | (415) 555-0192 | alex.chen.ai@gmail.com
+LinkedIn: linkedin.com/in/alexchen-ai | GitHub: github.com/alexchen-ml | Portfolio: alexchen.dev
+
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 5+ years of extensive experience building and deploying end-to-end deep learning, NLP, and computer vision systems in production. Expert in Python, PyTorch, Transformers, LLM fine-tuning, RAG pipelines, and cloud-native MLOps architectures.
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | DeepTech AI Labs | 2021 – Present
+- Architected and deployed an enterprise Retrieval-Augmented Generation (RAG) system using LangChain, Hugging Face transformers, and Pinecone vector database, serving 2M+ monthly queries with sub-200ms latency.
+- Developed natural language processing (NLP) models with PyTorch and BERT for customer sentiment analysis, increasing classification F1-score from 0.81 to 0.94.
+- Implemented automated CI/CD retraining pipelines using Docker, Kubernetes, and MLflow on AWS EKS, reducing deployment cycle times by 65%.
+- Supervised and mentored a team of 4 junior data scientists and conducted rigorous code reviews.
+
+Machine Learning Engineer | Apex Analytics | 2019 – 2021
+- Built predictive customer churn models using XGBoost, Scikit-learn, Pandas, and NumPy, identifying $1.4M in potential retention revenue.
+- Designed exploratory data analysis (EDA) pipelines and statistical hypothesis tests for continuous product feature validation.
+- Managed PostgreSQL and Redis feature stores for real-time model inference.
+
+EDUCATION
+Master of Science in Computer Science (Specialization: Artificial Intelligence)
+Stanford University | 2017 – 2019
+
+Bachelor of Science in Software Engineering
+University of California, Berkeley | 2013 – 2017
+
+TECHNICAL SKILLS
+- Programming Languages: Python, C++, SQL, Bash, JavaScript
+- ML & AI: Machine Learning, Deep Learning, PyTorch, TensorFlow, Scikit-learn, NLP, LLM, Transformers, Hugging Face, LangChain, Computer Vision, XGBoost
+- Cloud & DevOps: AWS, Docker, Kubernetes, Git, GitHub, CI/CD, Linux, MLflow
+- Databases: PostgreSQL, MongoDB, Redis, Pinecone, Vector Databases
+- Methodologies: Agile, Scrum, System Design, Unit Testing, Problem Solving, Leadership
