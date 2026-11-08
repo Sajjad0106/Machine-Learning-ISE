@@ -13,9 +13,11 @@ ENV/
 # Streamlit
 .streamlit/
 
-# User Requirement: Do not push .md files
+# Documentation: Ignore other .md files while allowing README.md
 *.md
+!README.md
 
 # Cache / Temp
 .DS_Store
 Thumbs.db
+
